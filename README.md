@@ -1,5 +1,3 @@
-# maddieessn.github.io
-# maddieesn.github.io
 </head>
 <body>
     <h1>Welcome to My Website</h1>
